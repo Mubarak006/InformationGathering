@@ -43,7 +43,9 @@ Finding Hosting Company and get further detail by using ip2location.com website
 
 ## Webserver Fingerprinting:
  
- ##Netcat:
+ ## Netcat:
+
+  ![image](https://github.com/user-attachments/assets/86b9e28b-0b5c-4f13-a789-b0b1c3065db8)
 
 ## nmap:
 
